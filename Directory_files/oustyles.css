@@ -1,0 +1,26 @@
+/*
+Implementations Skeletor v3 - 5/10/2014
+
+oustyles.css
+
+Add styles to overwrite customer CSS, USE WITH CAUTION.
+
+Contributors: Your Name Here
+Last Updated: Enter Date Here
+*/
+
+img {
+   display: block;
+   max-width: 100%;
+   height: auto;
+}
+
+.crest-name img {
+    margin-bottom: 20px;
+    display: inline;
+}
+
+.thumb-info-side-image-custom.thumb-info-side-image-custom-highlight .thumb-info-side-image-wrapper {
+	margin: 0 0 6.5px 0;
+	padding: 0;
+}
